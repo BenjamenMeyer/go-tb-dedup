@@ -1,0 +1,4 @@
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/tvanriper/mbox v0.1.2 h1:lb4rpblBBhLCOQ5MHeEP211CuO6iDxEGhT1wx3zCPbw=
+github.com/tvanriper/mbox v0.1.2/go.mod h1:F5APSePrKJcdzG40+AbK0RFYzOVXF/wN+y+DwiqXLMc=
